@@ -1,0 +1,11 @@
+base
+linux-lts
+mkinitcpio
+mkinitcpio-archiso
+openssh
+pv
+dosfstools
+vim
+arch-install-scripts
+syslinux
+debootstrap
